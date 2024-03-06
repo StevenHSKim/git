@@ -33,5 +33,5 @@ def 가위바위보():
         else:
             print("당신: 보, 봇: 보 -> 비겼습니다")
 
-for i in range(3):
+for i in range(2):
     가위바위보()
